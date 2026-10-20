@@ -1,19 +1,15 @@
 <!--
   PROFILE README for github.com/DEVASANJAY001
-
-  SETUP
-  1. Create a PUBLIC repo named exactly "DEVASANJAY001".
-  2. Upload README.md AND the assets/ folder (header.svg, divider.svg, footer.svg) to the repo root.
-     The banner, dividers and footer are hosted in your own repo, so they can never go "broken"
-     because of a third-party server being down.
-  3. Search for "TODO" / "YOUR-" to fill in your links.
+  Repo: DEVASANJAY001/DEVASANJAY001 (public). Files expected in the repo root:
+  README.md, header.svg, divider.svg, footer.svg
+  The only placeholder left is YOUR-SPLIT-APP-LINK (search for "TODO").
 -->
 
 <!-- ╔══════════════════════ HEADER ══════════════════════╗ -->
 
 <div align="center">
 
-<img src="assets/header.svg" width="100%" alt="Devasanjay N - Full-Stack Developer and AI/ML Engineer" />
+<img src="header.svg" width="100%" alt="Devasanjay N - Full-Stack Developer and AI/ML Engineer" />
 
 <a href="https://github.com/DEVASANJAY001">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&width=780&lines=Hi%2C+I'm+Devasanjay+%F0%9F%91%8B;Full-Stack+%C3%97+AI+%C3%97+Computer+Vision+%F0%9F%A4%96;Shipped+Split+to+the+app+stores+%F0%9F%93%B1;Ex-AI+Engineering+Intern+%40+Stellantis+%F0%9F%9A%97;Learning+AWS+%E2%98%81%EF%B8%8F+and+building+for+India+%F0%9F%87%AE%F0%9F%87%B3" alt="Typing animation" />
@@ -36,10 +32,10 @@
 
 <br/><br/>
 
-<a href="https://YOUR-PORTFOLIO-URL"><img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://YOUR-DAVNS-WEBSITE"><img src="https://img.shields.io/badge/DAVNS-Industries-ff5ecb?style=for-the-badge&logo=rocket&logoColor=white" alt="DAVNS Industries" /></a>
+<a href="https://devasanjay.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/devasanjay-natarajan/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:devasanjaynatarajan@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://davns.com"><img src="https://img.shields.io/badge/DAVNS-Industries-ff5ecb?style=for-the-badge&logo=rocket&logoColor=white" alt="DAVNS Industries" /></a>
 
 </div>
 
@@ -55,7 +51,7 @@
 
 </div>
 
-<img src="assets/divider.svg" width="100%" alt="" />
+<img src="divider.svg" width="100%" alt="" />
 
 ## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" width="34" alt="👋" /> &nbsp;About Me
 
@@ -96,7 +92,7 @@ I'm **Devasanjay**, a final-year Computer Science student who builds projects th
 </tr>
 </table>
 
-<img src="assets/divider.svg" width="100%" alt="" />
+<img src="divider.svg" width="100%" alt="" />
 
 ## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4a1/512.gif" width="34" alt="💡" /> &nbsp;What I Do
 
@@ -118,7 +114,7 @@ I'm **Devasanjay**, a final-year Computer Science student who builds projects th
 
 </div>
 
-<img src="assets/divider.svg" width="100%" alt="" />
+<img src="divider.svg" width="100%" alt="" />
 
 ## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4bb/512.gif" width="34" alt="💻" /> &nbsp;Tech Stack
 
@@ -147,7 +143,7 @@ I'm **Devasanjay**, a final-year Computer Science student who builds projects th
 
 </div>
 
-<img src="assets/divider.svg" width="100%" alt="" />
+<img src="divider.svg" width="100%" alt="" />
 
 ## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" width="34" alt="🚀" /> &nbsp;Flagship Work
 
@@ -232,7 +228,7 @@ Explored an end-to-end encrypted messaging architecture combining the Signal Pro
 </tr>
 </table>
 
-<img src="assets/divider.svg" width="100%" alt="" />
+<img src="divider.svg" width="100%" alt="" />
 
 ## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f916/512.gif" width="34" alt="🤖" /> &nbsp;Repositories
 
@@ -281,7 +277,7 @@ Explored an end-to-end encrypted messaging architecture combining the Signal Pro
 
 > 📂 **248 repositories** in total. Browse them all on the [Repositories tab](https://github.com/DEVASANJAY001?tab=repositories).
 
-<img src="assets/divider.svg" width="100%" alt="" />
+<img src="divider.svg" width="100%" alt="" />
 
 ## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f525/512.gif" width="34" alt="🔥" /> &nbsp;Journey
 
@@ -309,7 +305,7 @@ timeline
 
 </details>
 
-<img src="assets/divider.svg" width="100%" alt="" />
+<img src="divider.svg" width="100%" alt="" />
 
 ## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" width="34" alt="🌟" /> &nbsp;Right Now
 
@@ -325,7 +321,7 @@ timeline
 
 </div>
 
-<img src="assets/divider.svg" width="100%" alt="" />
+<img src="divider.svg" width="100%" alt="" />
 
 ## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4af/512.gif" width="34" alt="💯" /> &nbsp;GitHub Analytics
 
@@ -361,7 +357,7 @@ timeline
 </div>
 -->
 
-<img src="assets/divider.svg" width="100%" alt="" />
+<img src="divider.svg" width="100%" alt="" />
 
 ## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4a1/512.gif" width="34" alt="💡" /> &nbsp;How I Build
 
@@ -385,7 +381,7 @@ class Devasanjay:
         return "Building at DAVNS Industries and looking for the next big challenge 🚀"
 ```
 
-<img src="assets/divider.svg" width="100%" alt="" />
+<img src="divider.svg" width="100%" alt="" />
 
 ## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.gif" width="34" alt="✨" /> &nbsp;Let's Connect
 
@@ -395,9 +391,9 @@ class Devasanjay:
 
 <br/>
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://YOUR-PORTFOLIO-URL"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/devasanjay-natarajan/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:devasanjaynatarajan@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://devasanjay.vercel.app"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
 <a href="https://github.com/DEVASANJAY001"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
 <br/><br/>
@@ -406,6 +402,6 @@ class Devasanjay:
 
 <br/><br/>
 
-<img src="assets/footer.svg" width="100%" alt="Thanks for visiting!" />
+<img src="footer.svg" width="100%" alt="Thanks for visiting!" />
 
 </div>
