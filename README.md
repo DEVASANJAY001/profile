@@ -1,35 +1,45 @@
 <!--
   PROFILE README for github.com/DEVASANJAY001
-  Setup: create a PUBLIC repo named exactly "DEVASANJAY001", add this file as README.md in the root.
-  Search for "TODO" to find the few links only you can fill in.
+
+  SETUP
+  1. Create a PUBLIC repo named exactly "DEVASANJAY001".
+  2. Upload README.md AND the assets/ folder (header.svg, divider.svg, footer.svg) to the repo root.
+     The banner, dividers and footer are hosted in your own repo, so they can never go "broken"
+     because of a third-party server being down.
+  3. Search for "TODO" / "YOUR-" to fill in your links.
 -->
 
 <!-- ╔══════════════════════ HEADER ══════════════════════╗ -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f2027,50:203a43,100:7C3AED&text=Devasanjay%20N&fontColor=ffffff&fontSize=62&fontAlignY=38&desc=Full-Stack%20Developer%20%C2%B7%20AI%20%26%20ML%20Engineer%20%C2%B7%20Founder%20%40%20DAVNS%20Industries&descSize=19&descAlignY=60&animation=fadeIn" alt="Header banner" />
+<img src="assets/header.svg" width="100%" alt="Devasanjay N - Full-Stack Developer and AI/ML Engineer" />
 
 <a href="https://github.com/DEVASANJAY001">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&width=780&lines=Hi%2C+I'm+Devasanjay+%F0%9F%91%8B;AI+%7C+ML+%7C+Cloud+%7C+Full-Stack+Developer;Shipped+Split+to+the+app+stores+%F0%9F%93%B1;Ex-AI+Engineering+Intern+%40+Stellantis+%F0%9F%9A%97;Building+smart%2C+practical%2C+real-world+products+%F0%9F%87%AE%F0%9F%87%B3" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&width=780&lines=Hi%2C+I'm+Devasanjay+%F0%9F%91%8B;Full-Stack+%C3%97+AI+%C3%97+Computer+Vision+%F0%9F%A4%96;Shipped+Split+to+the+app+stores+%F0%9F%93%B1;Ex-AI+Engineering+Intern+%40+Stellantis+%F0%9F%9A%97;Learning+AWS+%E2%98%81%EF%B8%8F+and+building+for+India+%F0%9F%87%AE%F0%9F%87%B3" alt="Typing animation" />
 </a>
 
 <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=DEVASANJAY001&label=Profile%20Views&color=7C3AED&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/DEVASANJAY001?label=Followers&style=for-the-badge&logo=github&color=203a43)
-![Repos](https://img.shields.io/badge/Repositories-248-203a43?style=for-the-badge&logo=github)
-![Location](https://img.shields.io/badge/Chennai-India-FF9933?style=for-the-badge&logo=googlemaps&logoColor=white)
-![Open to Work](https://img.shields.io/badge/Open%20to-Work-2ea44f?style=for-the-badge&logo=briefcase&logoColor=white)
+<img src="https://hits.sh/github.com/DEVASANJAY001.svg?style=for-the-badge&label=Profile%20Views&extraCount=0&color=7C3AED&labelColor=0f0c29" alt="Profile views" />
+<img src="https://visitor-badge.laobi.icu/badge?page_id=DEVASANJAY001.DEVASANJAY001&left_color=0f0c29&right_color=00B8D4&left_text=Visitors" alt="Visitors" />
+<img src="https://img.shields.io/github/followers/DEVASANJAY001?label=Followers&style=for-the-badge&logo=github&color=ff5ecb&labelColor=0f0c29" alt="Followers" />
+<img src="https://img.shields.io/badge/Repositories-248-FFB347?style=for-the-badge&logo=github&logoColor=white&labelColor=0f0c29" alt="Repositories" />
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white)](https://YOUR-PORTFOLIO-URL)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-ID)
-[![Email](https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL@example.com)
-[![DAVNS](https://img.shields.io/badge/DAVNS-Industries-0f2027?style=for-the-badge&logo=rocket&logoColor=white)](https://YOUR-DAVNS-WEBSITE)
+<img src="https://img.shields.io/badge/Chennai-India-FF9933?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
+<img src="https://img.shields.io/badge/Open%20to-Work-2ea44f?style=for-the-badge&logo=briefcase&logoColor=white" alt="Open to work" />
+<img src="https://img.shields.io/badge/Class%20of-2027-00B8D4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Class of 2027" />
+<img src="https://img.shields.io/badge/Made%20with-Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B" alt="Python" />
+<img src="https://img.shields.io/badge/Powered%20by-Coffee-6F4E37?style=for-the-badge&logo=buymeacoffee&logoColor=white" alt="Coffee" />
 
-<!-- TODO: replace the four YOUR-... links above -->
+<br/><br/>
+
+<a href="https://YOUR-PORTFOLIO-URL"><img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://YOUR-DAVNS-WEBSITE"><img src="https://img.shields.io/badge/DAVNS-Industries-ff5ecb?style=for-the-badge&logo=rocket&logoColor=white" alt="DAVNS Industries" /></a>
 
 </div>
 
@@ -39,23 +49,23 @@
 
 <div align="center">
 
-| 🎓 Education | 🏢 Founder | 🚗 Experience | 📱 Shipped | 📍 Base |
+| 🎓 Education | 🏢 Organisation | 🚗 Experience | 📱 Shipped | 📍 Base |
 |:---:|:---:|:---:|:---:|:---:|
 | **B.E. CSE**<br/>Saveetha Engineering College<br/>2023 – 2027 | **DAVNS Industries**<br/>Products & programs | **AI Engineering Intern**<br/>Stellantis, Thiruvallur | **Split**<br/>Live on app stores | **Chennai**<br/>India |
 
 </div>
 
----
+<img src="assets/divider.svg" width="100%" alt="" />
 
-## 👋 &nbsp;About Me
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" width="34" alt="👋" /> &nbsp;About Me
 
 <table>
 <tr>
 <td width="60%" valign="top">
 
-I'm **Devasanjay**, a final-year Computer Science student and the founder of **DAVNS Industries**. I build projects that blend **intelligence, technology and real-world impact**: a mobile app that real people download, a computer-vision model that catches defects on a factory line, or a platform designed around how India actually uses the internet.
+I'm **Devasanjay**, a final-year Computer Science student who builds projects that blend **intelligence, technology and real-world impact**: a mobile app that real people download, a computer-vision model that catches defects on a factory line, or a platform designed around how India actually uses the internet.
 
-- 🚀 **Founder** at DAVNS Industries, shipping products and running programs
+- 🏢 Building at **DAVNS Industries**, shipping products and running programs
 - 📱 Built and deployed **Split**, an expense-splitting app on the app stores
 - 🏭 **AI Engineering Intern at Stellantis** (automotive quality and vision systems)
 - 🧠 Working across **LLM APIs, RAG, NLP and computer vision**
@@ -71,7 +81,7 @@ I'm **Devasanjay**, a final-year Computer Science student and the founder of **D
 ┌────────────────────────────────┐
 │  🧑‍💻  DEVASANJAY N              │
 ├────────────────────────────────┤
-│  Role    Founder · Developer   │
+│  Role    Developer · Builder   │
 │  Org     DAVNS Industries      │
 │  Focus   Full-Stack · AI · CV  │
 │  Cloud   AWS (learning)        │
@@ -86,9 +96,9 @@ I'm **Devasanjay**, a final-year Computer Science student and the founder of **D
 </tr>
 </table>
 
----
+<img src="assets/divider.svg" width="100%" alt="" />
 
-## 🎯 &nbsp;What I Do
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4a1/512.gif" width="34" alt="💡" /> &nbsp;What I Do
 
 <div align="center">
 
@@ -108,37 +118,38 @@ I'm **Devasanjay**, a final-year Computer Science student and the founder of **D
 
 </div>
 
----
+<img src="assets/divider.svg" width="100%" alt="" />
 
-## 🧩 &nbsp;Tech Stack
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4bb/512.gif" width="34" alt="💻" /> &nbsp;Tech Stack
 
 <div align="center">
 
 | | |
 |:--|:--|
-| **Languages** | <img src="https://skillicons.dev/icons?i=python,js,ts,java,c,cpp&theme=dark" alt="Languages" /> |
-| **Frontend & Mobile** | <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,nextjs,androidstudio&theme=dark" alt="Frontend" /> |
-| **Backend & Databases** | <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase&theme=dark" alt="Backend" /> |
-| **AI / ML / CV** | <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn,numpy,pandas&theme=dark" alt="AI and ML" /> |
-| **Cloud & DevOps** | <img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux,vercel&theme=dark" alt="Cloud" /> |
-| **Tools** | <img src="https://skillicons.dev/icons?i=vscode,postman&theme=dark" alt="Tools" /> |
+| **🔤 Languages** | <img src="https://skillicons.dev/icons?i=python,js,ts,java,c,cpp,bash&theme=dark" alt="Languages" /> |
+| **🎨 Frontend & Mobile** | <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,nextjs,androidstudio&theme=dark" alt="Frontend" /> |
+| **⚙️ Backend & Databases** | <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase,npm&theme=dark" alt="Backend" /> |
+| **🧠 AI / ML / CV** | <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn,numpy,pandas&theme=dark" alt="AI and ML" /> |
+| **☁️ Cloud & DevOps** | <img src="https://skillicons.dev/icons?i=aws,docker,git,github,githubactions,linux,vercel&theme=dark" alt="Cloud" /> |
+| **🧰 Tools** | <img src="https://skillicons.dev/icons?i=vscode,postman,md&theme=dark" alt="Tools" /> |
 
 <br/>
 
-![YOLOv8](https://img.shields.io/badge/YOLOv8-Object%20Detection-00B8D4?style=flat-square)
-![LLM](https://img.shields.io/badge/LLM-APIs-7C3AED?style=flat-square)
-![RAG](https://img.shields.io/badge/RAG-Pipelines-F59E0B?style=flat-square)
-![NLP](https://img.shields.io/badge/NLP-Text%20Processing-8A2BE2?style=flat-square)
-![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-LLM%20Workflows-00C7B7?style=flat-square)
-![XGBoost](https://img.shields.io/badge/XGBoost-Tabular%20ML-EC6C00?style=flat-square)
-![React Native](https://img.shields.io/badge/React%20Native-Mobile-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Signal](https://img.shields.io/badge/Signal%20Protocol-E2E%20Encryption-3A76F0?style=flat-square&logo=signal&logoColor=white)
+<img src="https://img.shields.io/badge/YOLOv8-Object%20Detection-00B8D4?style=for-the-badge" alt="YOLOv8" />
+<img src="https://img.shields.io/badge/LLM-APIs-7C3AED?style=for-the-badge&logo=openai&logoColor=white" alt="LLM APIs" />
+<img src="https://img.shields.io/badge/RAG-Pipelines-F59E0B?style=for-the-badge" alt="RAG" />
+<img src="https://img.shields.io/badge/NLP-Text%20Processing-8A2BE2?style=for-the-badge" alt="NLP" />
+
+<img src="https://img.shields.io/badge/Prompt%20Engineering-LLM%20Workflows-00C7B7?style=for-the-badge" alt="Prompt Engineering" />
+<img src="https://img.shields.io/badge/XGBoost-Tabular%20ML-EC6C00?style=for-the-badge" alt="XGBoost" />
+<img src="https://img.shields.io/badge/React%20Native-Mobile-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Native" />
+<img src="https://img.shields.io/badge/Signal%20Protocol-E2E%20Encryption-3A76F0?style=for-the-badge&logo=signal&logoColor=white" alt="Signal Protocol" />
 
 </div>
 
----
+<img src="assets/divider.svg" width="100%" alt="" />
 
-## 🚀 &nbsp;Flagship Work
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" width="34" alt="🚀" /> &nbsp;Flagship Work
 
 <table>
 <tr>
@@ -149,9 +160,9 @@ I'm **Devasanjay**, a final-year Computer Science student and the founder of **D
 
 Expense-splitting app built, deployed and maintained end to end.
 
-![Mobile](https://img.shields.io/badge/-Mobile-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Store](https://img.shields.io/badge/-App%20Store%20Deployed-0D96F6?style=flat-square&logo=appstore&logoColor=white)
+<img src="https://img.shields.io/badge/-Mobile-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="Mobile" />
+<img src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+<img src="https://img.shields.io/badge/-App%20Store-0D96F6?style=for-the-badge&logo=appstore&logoColor=white" alt="App Store" />
 
 [🔗 View on store](https://YOUR-SPLIT-APP-LINK) <!-- TODO -->
 
@@ -163,9 +174,9 @@ Expense-splitting app built, deployed and maintained end to end.
 
 AI inspection with **YOLOv8** and **HSV colour-space defect detection** for automotive quality use cases.
 
-![YOLOv8](https://img.shields.io/badge/-YOLOv8-00B8D4?style=flat-square)
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+<img src="https://img.shields.io/badge/-YOLOv8-00B8D4?style=for-the-badge" alt="YOLOv8" />
+<img src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
+<img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 
 </td>
 </tr>
@@ -177,9 +188,9 @@ AI inspection with **YOLOv8** and **HSV colour-space defect detection** for auto
 
 Designed to recommend optimal NPK ratios per district, crop and season from soil-health, crop-yield and weather data, modelled with **XGBoost**.
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![XGBoost](https://img.shields.io/badge/-XGBoost-EC6C00?style=flat-square)
-![AgriTech](https://img.shields.io/badge/-AgriTech-2E7D32?style=flat-square)
+<img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/-XGBoost-EC6C00?style=for-the-badge" alt="XGBoost" />
+<img src="https://img.shields.io/badge/-AgriTech-2E7D32?style=for-the-badge" alt="AgriTech" />
 
 </td>
 <td width="50%" valign="top">
@@ -189,9 +200,9 @@ Designed to recommend optimal NPK ratios per district, crop and season from soil
 
 200+ screen sitemap, mobile wireframes, AWS backend architecture, UPI-native monetisation and a localisation strategy.
 
-![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![Spec](https://img.shields.io/badge/-Product%20Spec-8B5CF6?style=flat-square)
-![UPI](https://img.shields.io/badge/-UPI%20Native-FF9933?style=flat-square)
+<img src="https://img.shields.io/badge/-AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
+<img src="https://img.shields.io/badge/-Product%20Spec-8B5CF6?style=for-the-badge" alt="Product Spec" />
+<img src="https://img.shields.io/badge/-UPI%20Native-FF9933?style=for-the-badge" alt="UPI" />
 
 </td>
 </tr>
@@ -203,8 +214,8 @@ Designed to recommend optimal NPK ratios per district, crop and season from soil
 
 Six-day college aptitude competition on Unstop (1–6 September 2026) with 180 quizzes, organised by DAVNS Industries.
 
-![Unstop](https://img.shields.io/badge/-Unstop-1C4980?style=flat-square)
-![Community](https://img.shields.io/badge/-Student%20Community-E91E63?style=flat-square)
+<img src="https://img.shields.io/badge/-Unstop-1C4980?style=for-the-badge" alt="Unstop" />
+<img src="https://img.shields.io/badge/-Student%20Community-E91E63?style=for-the-badge" alt="Community" />
 
 </td>
 <td width="50%" valign="top">
@@ -214,16 +225,16 @@ Six-day college aptitude competition on Unstop (1–6 September 2026) with 180 q
 
 Explored an end-to-end encrypted messaging architecture combining the Signal Protocol with Firebase.
 
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Signal](https://img.shields.io/badge/-Signal%20Protocol-3A76F0?style=flat-square&logo=signal&logoColor=white)
+<img src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+<img src="https://img.shields.io/badge/-Signal%20Protocol-3A76F0?style=for-the-badge&logo=signal&logoColor=white" alt="Signal" />
 
 </td>
 </tr>
 </table>
 
----
+<img src="assets/divider.svg" width="100%" alt="" />
 
-## 📦 &nbsp;Repositories
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f916/512.gif" width="34" alt="🤖" /> &nbsp;Repositories
 
 ### 🧠 AI / ML / GenAI
 
@@ -270,9 +281,9 @@ Explored an end-to-end encrypted messaging architecture combining the Signal Pro
 
 > 📂 **248 repositories** in total. Browse them all on the [Repositories tab](https://github.com/DEVASANJAY001?tab=repositories).
 
----
+<img src="assets/divider.svg" width="100%" alt="" />
 
-## 💼 &nbsp;Journey
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f525/512.gif" width="34" alt="🔥" /> &nbsp;Journey
 
 ```mermaid
 timeline
@@ -280,7 +291,7 @@ timeline
     2023 : Started B.E. CSE at Saveetha Engineering College
     Along the way : Built and shipped Split to the app stores
                   : AI Engineering Intern at Stellantis (YOLOv8, HSV defect detection)
-                  : Founded DAVNS Industries
+                  : Building products at DAVNS Industries
     2026 : Ran DAVNS Perspective 2026 on Unstop
          : Building AI, AgriTech and India-first products
     2027 : Graduating, looking for AI/ML and Full-Stack roles
@@ -292,15 +303,15 @@ timeline
 
 | Role | Where | What I did |
 |:--|:--|:--|
-| 🚀 **Founder** | DAVNS Industries | Builds and ships products, runs programs such as DAVNS Perspective 2026 |
+| 🏢 **Builder** | DAVNS Industries | Builds and ships products, runs programs such as DAVNS Perspective 2026 |
 | 🧪 **AI Engineering Intern** | Stellantis, Thiruvallur Plant | Computer-vision and AI work for automotive quality systems (YOLOv8, HSV-based defect detection) |
 | 🎓 **B.E. Computer Science & Engineering** | Saveetha Engineering College, Anna University | 2023 – 2027 |
 
 </details>
 
----
+<img src="assets/divider.svg" width="100%" alt="" />
 
-## 🔭 &nbsp;Right Now
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" width="34" alt="🌟" /> &nbsp;Right Now
 
 <div align="center">
 
@@ -310,13 +321,13 @@ timeline
 | 📚 **Exploring** | RAG pipelines, LLM workflows, encrypted messaging, YOLO-based inspection, AWS deployment |
 | 🌱 **Curious about** | Used-car verification in tier-2/3 cities, formalising domestic work, services for kirana stores |
 | 🎯 **Looking for** | AI/ML Engineer · Full-Stack Developer · Computer Vision roles in Chennai |
-| 💬 **Ask me about** | Shipping to the app stores, Firebase, YOLO + OpenCV, building a startup as a student |
+| 💬 **Ask me about** | Shipping to the app stores, Firebase, YOLO + OpenCV, building products as a student |
 
 </div>
 
----
+<img src="assets/divider.svg" width="100%" alt="" />
 
-## 📊 &nbsp;GitHub Analytics
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4af/512.gif" width="34" alt="💯" /> &nbsp;GitHub Analytics
 
 <div align="center">
 
@@ -324,6 +335,10 @@ timeline
 <tr>
 <td align="center"><img height="170" src="https://github-readme-stats.vercel.app/api?username=DEVASANJAY001&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats" /></td>
 <td align="center"><img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEVASANJAY001&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" /></td>
+</tr>
+<tr>
+<td align="center"><img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DEVASANJAY001&theme=tokyonight" alt="Repos per language" /></td>
+<td align="center"><img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DEVASANJAY001&theme=tokyonight" alt="Most used language" /></td>
 </tr>
 </table>
 
@@ -346,13 +361,13 @@ timeline
 </div>
 -->
 
----
+<img src="assets/divider.svg" width="100%" alt="" />
 
-## 🧭 &nbsp;How I Build
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4a1/512.gif" width="34" alt="💡" /> &nbsp;How I Build
 
 ```python
 class Devasanjay:
-    role = "Founder · Full-Stack Developer · AI/ML Engineer"
+    role = "Full-Stack Developer · AI/ML Engineer"
     base = "Chennai, India"
     stack = ["Python", "JavaScript", "TypeScript", "Java", "C / C++",
              "React / Next.js / React Native", "Node / Express",
@@ -367,12 +382,12 @@ class Devasanjay:
     ]
 
     def currently(self):
-        return "Building DAVNS Industries and looking for the next big challenge 🚀"
+        return "Building at DAVNS Industries and looking for the next big challenge 🚀"
 ```
 
----
+<img src="assets/divider.svg" width="100%" alt="" />
 
-## 🤝 &nbsp;Let's Connect
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.gif" width="34" alt="✨" /> &nbsp;Let's Connect
 
 <div align="center">
 
@@ -389,8 +404,8 @@ class Devasanjay:
 
 <i>"I build, I learn, I improve — one project at a time."</i>
 
-<br/>
+<br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:7C3AED,50:203a43,100:0f2027&section=footer&text=Thanks%20for%20visiting!&fontColor=ffffff&fontSize=24&fontAlignY=70" alt="Footer wave" />
+<img src="assets/footer.svg" width="100%" alt="Thanks for visiting!" />
 
 </div>
